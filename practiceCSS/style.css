@@ -1,0 +1,19 @@
+/* header and footer -- color grey */
+
+header, footer {
+    background-color: grey;
+}
+
+/* all h1 30px size */
+
+h1 {
+    font-size: 30px;
+}
+
+/* font family Arial */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+
